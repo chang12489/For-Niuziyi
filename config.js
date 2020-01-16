@@ -9,7 +9,7 @@ var config = {
         "第二个生日，诶嘿",
         "咱已经认识633天啦O(∩_∩)O",
         "不过我好像还没给你买过蛋糕欸",
-        "(╹ڡ╹ )",
+        "想吃蛋糕么？(╹ڡ╹ )",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -33,6 +33,6 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        story: "点我看片",
     }
 };
