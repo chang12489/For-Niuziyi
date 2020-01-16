@@ -7,7 +7,7 @@ var config = {
         "嘿嘿嘿",  // 同上...
         "今天是你的生日",
         "第二个生日，诶嘿",
-        "咱已经认识633天啦O(∩_∩)O",
+        "我们已经认识633天啦O(∩_∩)O",
         "不过我好像还没给你买过蛋糕欸",
         "想吃蛋糕么？(╹ڡ╹ )",
     ],
@@ -28,9 +28,9 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "横幅",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
+        cake_fadein: "要蛋糕吗？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "点我看片",
